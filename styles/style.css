@@ -226,3 +226,48 @@ a{
     text-transform: uppercase;
     color: white;
 }
+
+.story-3{
+    position: relative;
+    top:1900px;
+    left:-8%;
+    width:100%;
+    height:800px;
+    background-color: inherit;
+}
+
+.story-text-4{
+    position: relative;
+    top:2000px;
+    left:15%;
+}
+
+.story-image-4{
+    position: relative;
+    width:100%;
+    height: 100%;
+}
+
+.story-info-4-1{
+    position: relative;
+    left:30%;
+    top:-350px;
+    text-transform: uppercase;
+    font-family:"Poppins";
+    font-weight: 200;
+    color: #273d46;
+    font-size:14px;
+    line-height: 40px;
+    letter-spacing: 2px;
+}
+
+.story-info-4-2{
+    position: relative;
+    font-family: "Playfair Display";
+    font-size:36px;
+    line-height: 40px;
+    font-weight: 400;
+    left:30%;
+    top:-370px;
+    width:25%;   
+}
